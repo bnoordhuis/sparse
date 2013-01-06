@@ -525,6 +525,8 @@ const char *ignored_attributes[] = {
 	"__l1_data__",
 	"l2",
 	"__l2__",
+	"leaf",
+	"__leaf__",
 	"may_alias",
 	"__may_alias__",
 	"malloc",
